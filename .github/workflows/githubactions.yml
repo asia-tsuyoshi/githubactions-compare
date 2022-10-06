@@ -2,8 +2,7 @@ name: 'GithubActions-Terraform'
 
 on:
   push:
-    branches:
-      - "main"
+
 
 jobs:
   apply_tf:
